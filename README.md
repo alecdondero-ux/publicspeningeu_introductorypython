@@ -39,12 +39,12 @@ We focus on:
 
 ## Methodology
 
-The project uses descriptive data analysis techniques:
+The project uses the descriptive data analysis techniques seen in class:
 
 - Data cleaning and filtering (Python, pandas)  
 - Merging multiple datasets  
 - Creation of key variables (e.g., total spending = health + education)  
-- Group comparison (EU-15 vs post-2004)  
+- Group comparison (in this case, EU-15 vs post-2004)  
 - Visualization using seaborn and matplotlib  
 
 
@@ -57,7 +57,7 @@ The project uses descriptive data analysis techniques:
   - Higher life expectancy (correlation ≈ +0.35)  
 - COVID-19 had a visible impact on both spending and outcomes (2020–2021)  
 
-**Note:** Results are correlational and do not imply causality.
+**N-B:** Results are correlational and do not imply causality.
 
 
 
@@ -95,7 +95,7 @@ python main.py
 
 
 ### Output:
-- Charts will be saved in the output/ folder  
+- Charts will be saved in the `output/` folder  
 - Summary statistics will appear in the terminal  
 
 
@@ -110,6 +110,6 @@ python main.py
 
 ## Notes & Limitations
 
-- The analysis is purely descriptive  
+- The analysis is somewhat descriptive  
 - Results may reflect underlying differences in wealth across countries  
 - Visualizations are presented individually, which may limit direct comparison  
