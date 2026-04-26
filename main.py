@@ -133,4 +133,4 @@ plt.clf()
 # correlations
 print(df[["total", "poverty", "life_exp"]].corr().round(3))
 
-print("done!")
+print("This line marks the end of the code's work! Everything's done.")
